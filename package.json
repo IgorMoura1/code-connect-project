@@ -1,5 +1,7 @@
 {
   "name": "codeconnect",
+  "homepage": "https://IgorMoura1.github.io/code-connect-project/",
+  "description": "Code Connect Project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
